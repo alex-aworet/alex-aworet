@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**alex-aworet/alex-aworet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Level 1 -->
 
-Here are some ideas to get you started:
+## Hi, I'm Alex!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an AI and Data Science Engineer with a strong interest in combining rigorous engineering practices with innovative, user-centric applications. 
+
+🎓 Currently studying at [aivancity, La Grande École de l'IA](https://www.aivancity.ai/etudiant/programme/programme-grande-ecole) in Paris Region.
+, where I develop expertise in machine learning, deep learning, data engineering, and software development.
+
+✨ I love exploring new environments. By the way ! Recently, I had the chance to work on programming a NAO6 robot, which ended up becoming an unexpected really good and talkative friend.
+
+## What I'm into
+
+- Machine Learning & Deep Learning
+- Data Engineering & MLOps
+- Robotics & Autonomous Agents
+
+## What I aim to bring
+
+- A strong engineering mindset with attention to detail
+- The ability to merge analytical thinking with creativity
+- A drive to build AI solutions that solve real problems
+- Curiosity, adaptability, and a proactive attitude
+
+## What I do during my free time
+
+- Developing the ability to connect state-of-the-art AI technologies with my personal areas of interest to create more productive, meaningful solutions.
+
+
+
+
+
+
+
+
